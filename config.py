@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
 
-working_dir = "D://programming/parcer"
+working_dir = ""
 current_folder = str(Path(__file__).parent.absolute())
 maximum_ids_per_json = 100
 
